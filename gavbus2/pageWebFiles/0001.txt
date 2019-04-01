@@ -1,0 +1,684 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="applicable-device" content="mobile" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="format-detection" content="telephone=no, email=no" />
+    <meta name="renderer" content="webkit">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="screen-orientation" content="portrait">
+    <meta name="x5-orientation" content="portrait">
+    <meta name="full-screen" content="yes">
+    <meta name="x5-fullscreen" content="true">
+    <meta name="browsermode" content="application">
+    <meta name="x5-page-mode" content="app">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <title>Gavbus-老司机AV磁力連結分享 - 日本成人影片資料庫</title>
+    <meta name="keywords" content="老司机AV磁力連結分享 - 日本成人影片資料庫">
+    <meta name="description" content="老司机AV成人电影下载">
+    <link rel="stylesheet" type="text/css" href="/assets/common/plugins/bootstrapv3/css/bootstrap.min.css" /><link rel="stylesheet" type="text/css" href="/assets/common/plugins/font_awesome/css/font-awesome.min.css" /><link rel="stylesheet" type="text/css" href="/assets/common/style/common.css" />
+    <script type="text/javascript" src="/assets/common/js/jquery-1.12.2.min.js"></script><script type="text/javascript" src="/assets/common/js/jquery.cookie.js"></script><script type="text/javascript" src="/assets/common/plugins/bootstrapv3/js/bootstrap.min.js"></script><script type="text/javascript" src="/assets/common/js/jquery.magnific-popup.min.js"></script><script type="text/javascript" src="/assets/common/js/jquery.masonry.min.js"></script><script type="text/javascript" src="/assets/common/js/common.js"></script>
+</head>
+<body>
+<script language="JavaScript">
+    var info = 'Search by ID, Title, Idol';
+    function searchs(obj){
+        var searchinput = $("#"+obj);
+        if(searchinput.val()=='')
+        {
+            $('#magnet-url-post').trigger("click");
+            return false;
+        }
+        else
+        {
+            $('#search-loading').show();
+            window.location.href="/search/"+encodeURIComponent($.trim(searchinput.val()));
+        }
+    }
+</script>
+<div id="search-loading">
+    <table class="search-loading-box" border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+        <tr>
+            <td align="center">
+                <table height="80" width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tbody>
+                    <tr>
+                        <td height="40" align="center">
+                            <div class="search-loading-text">Search...</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="40" align="center">
+                            <img src="/assets/common/images/search_loading.gif" border="0">
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<nav class="navbar navbar-default navbar-fixed-top top-bar" style="z-index:2">
+    <div class="container-fluid">
+        <div class="navbar-header mh50">
+            <a href="//www.gavbus668.com">
+                <img class="hidden-xs" height="50" alt="JavBus" src="//www.gavbus668.com/assets/attach/uploads/52/79/18/9254e04c4c533eeb3e1e24ff.png" style="height:40px; margin-top:5px;">
+                <img class="visible-xs-inline" height="50" alt="JavBus" src="//www.gavbus668.com/assets/attach/uploads/52/79/18/9254e04c4c533eeb3e1e24ff.png">
+            </a>
+
+            <div class="btn-group pull-right visible-xs-inline" role="group" style="margin:8px 8px 0 0;">
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                    <span class="glyphicon glyphicon-globe"></span>  <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                    <li><a href="?lang=en">English</a></li>
+                    <li><a href="?lang=ja">日本语</a></li>
+                    <li><a href="?lang=ko">한국의</a></li>
+                    <li><a href="?lang=cn">中文</a></li>
+                </ul>
+            </div>
+
+            <div class="btn-group pull-right visible-xs-inline" role="group" style="margin:8px 8px 0 0;">
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                    <span class="glyphicon glyphicon-film"></span>  <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                    <li id="showmag"><a><span class="glyphicon glyphicon-magnet"></span> Available</a></li>
+
+                </ul>
+            </div>
+
+
+        </div>
+
+        <div id="navbar" class="collapse navbar-collapse">
+            <div class="navbar-form navbar-left fullsearch-form">
+                <div class="input-group">
+                    <input id="search-input" type="text" class="form-control" value="" placeholder="Search by ID, Title, Idol">
+                    <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit" onclick="searchs('search-input')">Search</button>
+                    </span>
+                </div>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="//www.gavbus668.com">Censored</a></li>
+                <li ><a href="//www.gavbus668.com/uncensored">Uncensored</a></li>
+                <li ><a href="//www.gavbus668.com/western">Western</a></li>
+                <li class="dropdown hidden-sm">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Genre                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="//www.gavbus668.com/genre">Censored Genre</a></li>
+                        <li><a href="//www.gavbus668.com/uncensored/genre">Uncensored Genre</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown hidden-sm">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Actress                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="//www.gavbus668.com/actresses">Censored JAV Idols</a></li>
+                        <li><a href="//www.gavbus668.com/uncensored/actresses">Uncensored JAV Idols</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="//www.gavbus668.com" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-menu-hamburger"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li class="visible-md-block visible-sm-block"><a href="//www.gavbus668.comwestern">Western</a></li>
+                        <li class="visible-sm-block"><a href="//www.gavbus668.com/genre">Censored Genre</a></li>
+                        <li class="visible-sm-block"><a href="//www.gavbus668.com/uncensored/genre">Uncensored Genre</a></li>
+                        <li class="visible-sm-block"><a href="//www.gavbus668.com/actresses">Censored JAV Idols</a></li>
+                        <li class="visible-sm-block"><a href="//www.gavbus668.com/uncensored/actresses">Uncensored JAV Idols</a></li>
+                        <li><a href="//www.gavbus668.com/genre/hd">HD</a></li>
+                        <li><a href="//www.gavbus668.com/genre/sub">SUB</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-globe" style="font-size:12px;"></span> <span class="hidden-md hidden-sm">English</span> <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="?lang=en">English</a></li>
+                        <li><a href="?lang=ja">日本语</a></li>
+                        <li><a href="?lang=ko">한국의</a></li>
+                        <li><a href="?lang=cn">中文</a></li>
+                    </ul>
+                </li>
+            </ul>
+
+                        <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">
+                        <span class="glyphicon glyphicon-film" style="font-size:12px;"></span>
+                        <span class="hidden-md hidden-sm">
+                                                        Show All                        </span> <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                                                <li id="cellshowmag"><a><span class="glyphicon glyphicon-magnet"></span> Available</a></li>
+                                            </ul>
+                </li>
+            </ul>
+                    </div>
+        <!--/.nav-collapse -->
+    </div>
+
+</nav>
+<div style="margin-top: 15px;"><script language="javascript" src="/assets/common/js/admenu.js"></script></div>
+<div class="row visible-xs-inline footer-bar">
+    <div class="col-xs-3 text-center">
+        <a id="menu" class="btn btn-default trigger-overlay"><span class="glyphicon glyphicon-align-justify"></span></a>
+    </div>
+    <div class="col-xs-3 text-center">
+            </div>
+    <div class="col-xs-3 text-center">
+                <a id="page-next" class="btn btn-default" href="/page/2" style=""><span class="glyphicon glyphicon-chevron-right"></span></a>
+            </div>
+    <div class="col-xs-3 text-center">
+        <a id="back" class="btn btn-default" href="javascript:window.history.back()"><span class="glyphicon glyphicon-share-alt flipx"></span></a>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="alert alert-info alert-dismissable alert-common" style="position:relative">
+    <div class="row">
+                <div class="col-xs-12 col-md-6 col-lg-3 text-center">
+            <strong>防屏蔽地址發布頁：</strong>
+            <a href=" 海外用户永久域名www.gavbus.com" rel="nofollow" target="_blank"> 海外用户永久域名www.gavbus.com</a>
+        </div>
+                <div class="col-xs-12 col-md-6 col-lg-3 text-center">
+            <strong>防屏蔽地址：</strong>
+            <a href="如果无法访问，请用上代理访问海外永久域名！" rel="nofollow" target="_blank">如果无法访问，请用上代理访问海外永久域名！</a>
+        </div>
+            </div>
+</div>
+        <div id="waterfall">
+                        <div class="item">
+                <a class="movie-box" href="/video/C-2371.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/50/73/61/aff5efc0707af5b92f950a15.jpg" title="C-2371 AV監督×素人妻 合コン2018・秋の陣 番外編 人妻漫遊記">
+                    </div>
+                    <div class="photo-info">
+						<span>C-2371 AV監督×素人妻 合コン2018・秋の陣 番外編 人妻漫遊記<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>C-2371</date> / <date>2019-03-26</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/KTRA-109.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/6e/f3/0c/934c979bc74e983ad8f332c7.jpg" title="KTRA-109 真性Mっ子美少女 特濃種汁中出し 富田優衣">
+                    </div>
+                    <div class="photo-info">
+						<span>KTRA-109 真性Mっ子美少女 特濃種汁中出し 富田優衣<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>KTRA-109</date> / <date>2019-03-26</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/KTRA-110.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/c3/2e/a2/67d17d525075f1dd703b22a1.jpg" title="KTRA-110 変態ドMな制服美少女 汚部屋de調教 若本あん">
+                    </div>
+                    <div class="photo-info">
+						<span>KTRA-110 変態ドMな制服美少女 汚部屋de調教 若本あん<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>KTRA-110</date> / <date>2019-03-26</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/AKID-063.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/96/0d/a2/1d2e015050fcd92d448075a5.jpg" title="AKID-063 女子大生限定 飲み会後、部屋にお持ち帰り盗撮 そして黙ってAVへ no.27 年上お嬢様女子大生編 えいみ/Gカップ/21才 まい/Gカップ/21才">
+                    </div>
+                    <div class="photo-info">
+						<span>AKID-063 女子大生限定 飲み会後、部屋にお持ち帰り盗撮 そして黙ってAVへ no.27 年上お嬢様女子大生編 えいみ/Gカップ/21才 まい/Gカップ/21才<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>AKID-063</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/NSPS-789.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/5c/00/1b/30c44117058d667c4778f136.jpg" title="NSPS-789 嫌いな男に何度もイカされる屈辱 おもらしづま 竹内麻耶">
+                    </div>
+                    <div class="photo-info">
+						<span>NSPS-789 嫌いな男に何度もイカされる屈辱 おもらしづま 竹内麻耶<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>NSPS-789</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/CESD-734.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/84/f1/5a/37e87ee12404d85fe9992d71.jpg" title="CESD-734 自宅で売春する淫乱三姉妹の性接待が凄すぎる件 大槻ひびき 波多野結衣 推川ゆうり">
+                    </div>
+                    <div class="photo-info">
+						<span>CESD-734 自宅で売春する淫乱三姉妹の性接待が凄すぎる件 大槻ひびき 波多野結衣 推川ゆうり<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>CESD-734</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/OKAX-486.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/64/79/fb/8d0396c6ab97e96665c7d287.jpg" title="OKAX-486 顔は地味、浮気経験無し、C級ブサカワ人妻、なぜか男がハマっちゃう最高なスケベボディ4時間">
+                    </div>
+                    <div class="photo-info">
+						<span>OKAX-486 顔は地味、浮気経験無し、C級ブサカワ人妻、なぜか男がハマっちゃう最高なスケベボディ4時間<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-warning" disabled="disabled" title="Containing Magnet Links with Subtitles">SUB</button>
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>OKAX-486</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/MMGH-159.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/de/be/2c/0096fc1f1ea5f56a9b670949.jpg" title="MMGH-159 りか（22）、ひかり（20） マジックミラー号 素人女子大生限定100の質問中に突然デカチンを即ハメ！恥じらいつつも連続ピストンでオマ○コぐちょ濡れ大絶頂！おまけに大洪水！">
+                    </div>
+                    <div class="photo-info">
+						<span>MMGH-159 りか（22）、ひかり（20） マジックミラー号 素人女子大生限定100の質問中に突然デカチンを即ハメ！恥じらいつつも連続ピストンでオマ○コぐちょ濡れ大絶頂！おまけに大洪水！<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>MMGH-159</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/SABA-513.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/1e/c2/2e/1d0253d6d38e659ff9d6d47a.jpg" title="SABA-513 地味だけどエロイ！すぐにイクイク！全身性感帯！S級素人出演！！SUPER MEMORIAL BEST 4時間">
+                    </div>
+                    <div class="photo-info">
+						<span>SABA-513 地味だけどエロイ！すぐにイクイク！全身性感帯！S級素人出演！！SUPER MEMORIAL BEST 4時間<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>SABA-513</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/VRTM-416.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/b8/7d/9d/579f982595fc58be1d3684a9.jpg" title="VRTM-416 水泳部所属の姉の競泳水着姿にフル勃起した弟がコッソリ媚薬を飲ませると超敏感なカラダに！拒む姉をよそに子宮奥に突き刺さる終わりなき超絶ハードピストンで死ぬほど強制仰け反り絶頂！2">
+                    </div>
+                    <div class="photo-info">
+						<span>VRTM-416 水泳部所属の姉の競泳水着姿にフル勃起した弟がコッソリ媚薬を飲ませると超敏感なカラダに！拒む姉をよそに子宮奥に突き刺さる終わりなき超絶ハードピストンで死ぬほど強制仰け反り絶頂！2<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>VRTM-416</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/VRTM-415.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/b2/e9/17/351c953ce0f0b104446a2988.jpg" title="VRTM-415 久しぶりに働き出したデカ尻義母はパンツスーツを着用！ピタパン尻から浮き出るパンティーラインに息子は我慢できず即挿入！旦那では体験したことがない豊満尻波打たせる激ピストンで何度も絶頂！ 3">
+                    </div>
+                    <div class="photo-info">
+						<span>VRTM-415 久しぶりに働き出したデカ尻義母はパンツスーツを着用！ピタパン尻から浮き出るパンティーラインに息子は我慢できず即挿入！旦那では体験したことがない豊満尻波打たせる激ピストンで何度も絶頂！ 3<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>VRTM-415</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/VRTM-414.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/dd/bb/f2/29aef1c7a6ae1b8f921bee18.jpg" title="VRTM-414 「私も子供が欲しい！」保育園で働くデカ乳保母さんが同僚の男に悩みを相談！妊娠願望強すぎて母性溢れるオッパイでまさかの授乳手コキ！萎え知らずの若いチ●ポを自ら挿入しデカ乳激揺れさせながら何度も中出し懇願！3">
+                    </div>
+                    <div class="photo-info">
+						<span>VRTM-414 「私も子供が欲しい！」保育園で働くデカ乳保母さんが同僚の男に悩みを相談！妊娠願望強すぎて母性溢れるオッパイでまさかの授乳手コキ！萎え知らずの若いチ●ポを自ら挿入しデカ乳激揺れさせながら何度も中出し懇願！3<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>VRTM-414</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/VRTM-417.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/a7/21/0d/d56dffb6d810b7c41b1ee3d4.jpg" title="VRTM-417 「お父さん大好きだよ…」単身赴任で離れ離れで暮らすことが決まった大好きな父に別れを惜しんでベロキス密着中出しSEX！2">
+                    </div>
+                    <div class="photo-info">
+						<span>VRTM-417 「お父さん大好きだよ…」単身赴任で離れ離れで暮らすことが決まった大好きな父に別れを惜しんでベロキス密着中出しSEX！2<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>VRTM-417</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/MDTM-500.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/34/5a/4d/10095fd7f68beecf125e78ac.jpg" title="MDTM-500 大人たちにダマされ‘ハメ’られる制服女子たち 4時間">
+                    </div>
+                    <div class="photo-info">
+						<span>MDTM-500 大人たちにダマされ‘ハメ’られる制服女子たち 4時間<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>MDTM-500</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/BAZX-179.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/e4/83/f9/6b057cf742332b3d2c6a2aec.jpg" title="BAZX-179 働く新卒社会人と性交。VOL.011">
+                    </div>
+                    <div class="photo-info">
+						<span>BAZX-179 働く新卒社会人と性交。VOL.011<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>BAZX-179</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/MDTM-501.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/98/59/29/e67ca1a3e44935729425cc1a.jpg" title="MDTM-501 むちむちニーハイ絶対領域とデカ尻で誘惑する制服美少女 優梨まいな">
+                    </div>
+                    <div class="photo-info">
+						<span>MDTM-501 むちむちニーハイ絶対領域とデカ尻で誘惑する制服美少女 優梨まいな<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>MDTM-501</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/NMO-053.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/05/d7/3e/82cbd9131d5364a1c1940647.jpg" title="NMO-053 続・異常性交 四十路母と子 其ノ弐 平岡里枝子">
+                    </div>
+                    <div class="photo-info">
+						<span>NMO-053 続・異常性交 四十路母と子 其ノ弐 平岡里枝子<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>NMO-053</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/MGT-070.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/1d/1a/43/66137a6e5c18a9633aa214db.jpg" title="MGT-070 街角シロウトナンパ！ vol.45 お悩み解決らぶワゴン 3">
+                    </div>
+                    <div class="photo-info">
+						<span>MGT-070 街角シロウトナンパ！ vol.45 お悩み解決らぶワゴン 3<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>MGT-070</date> / <date>2019-03-22</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/REBDB-346.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/e9/f9/99/92e9e2f4f06419e75caebd1b.jpg" title="REBDB-346 Yuna2 Refresh cruise 小倉由菜">
+                    </div>
+                    <div class="photo-info">
+						<span>REBDB-346 Yuna2 Refresh cruise 小倉由菜<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>REBDB-346</date> / <date>2019-02-07</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/JRZD-861.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/de/f0/54/e0b069737309f96422c3a246.jpg" title="JRZD-861 初撮り人妻ドキュメント 海藤みずほ">
+                    </div>
+                    <div class="photo-info">
+						<span>JRZD-861 初撮り人妻ドキュメント 海藤みずほ<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>JRZD-861</date> / <date>2019-01-24</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/BDSR-373.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/df/d3/5f/51df2f44415bf834fee9005d.jpg" title="BDSR-373 二人でするヨガ。タイ古式マッサージ店盗撮。素人人妻をタイ古式マッサージの無料体験と偽り騙して癒して中出ししちゃいました 葛飾区編">
+                    </div>
+                    <div class="photo-info">
+						<span>BDSR-373 二人でするヨガ。タイ古式マッサージ店盗撮。素人人妻をタイ古式マッサージの無料体験と偽り騙して癒して中出ししちゃいました 葛飾区編<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-success" disabled="disabled" title="Containing Magnet Links of Newest Torrent">2 Days</button>                        </div>
+						<date>BDSR-373</date> / <date>2019-01-12</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/NSPS-788.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/92/4a/85/40690a9db91dfe24a0422c3b.jpg" title="NSPS-788 【衝撃】修羅場NTR 妻と知人のファック現場">
+                    </div>
+                    <div class="photo-info">
+						<span>NSPS-788 【衝撃】修羅場NTR 妻と知人のファック現場<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-danger" disabled="disabled" title="Containing Magnet Links of Newest Torrent">3 Days</button>                        </div>
+						<date>NSPS-788</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/CETD-302.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/8b/88/e7/213565caeec1b32c2c109058.jpg" title="CETD-302 初アナル解禁！音羽文子の肛門処女を奪うアナル開発ドキュメント 特典版2枚組 音羽文子">
+                    </div>
+                    <div class="photo-info">
+						<span>CETD-302 初アナル解禁！音羽文子の肛門処女を奪うアナル開発ドキュメント 特典版2枚組 音羽文子<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-danger" disabled="disabled" title="Containing Magnet Links of Newest Torrent">3 Days</button>                        </div>
+						<date>CETD-302</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/CESD-733.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/25/1f/39/703a1f875a9a45b6ed1352ad.jpg" title="CESD-733 言いなり洗脳奴隷妻 柚月ひまわり">
+                    </div>
+                    <div class="photo-info">
+						<span>CESD-733 言いなり洗脳奴隷妻 柚月ひまわり<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-danger" disabled="disabled" title="Containing Magnet Links of Newest Torrent">3 Days</button>                        </div>
+						<date>CESD-733</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/HARU-056.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/7b/b7/e8/cf45f4dd9c8abc58a3f7626d.jpg" title="HARU-056 キャンギャルお姉さんの美脚にぶっかけキャンペーン中！">
+                    </div>
+                    <div class="photo-info">
+						<span>HARU-056 キャンギャルお姉さんの美脚にぶっかけキャンペーン中！<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-danger" disabled="disabled" title="Containing Magnet Links of Newest Torrent">3 Days</button>                        </div>
+						<date>HARU-056</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/DLIS-010.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/c9/3f/b0/dfd44f802e0dfe96e777de0c.jpg" title="DLIS-010 生意気娘に種付生ハメ！早漏イクイク女子 阿部乃みく">
+                    </div>
+                    <div class="photo-info">
+						<span>DLIS-010 生意気娘に種付生ハメ！早漏イクイク女子 阿部乃みく<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-danger" disabled="disabled" title="Containing Magnet Links of Newest Torrent">3 Days</button>                        </div>
+						<date>DLIS-010</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/MACB-004.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/a6/a2/73/424eb548aae13f0f934d54bf.jpg" title="MACB-004 頼まれたら「イヤ」と言えない神対応人妻 男達に風俗プレイを要求されド淫乱に応えてしまう！ あおいれな">
+                    </div>
+                    <div class="photo-info">
+						<span>MACB-004 頼まれたら「イヤ」と言えない神対応人妻 男達に風俗プレイを要求されド淫乱に応えてしまう！ あおいれな<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-danger" disabled="disabled" title="Containing Magnet Links of Newest Torrent">3 Days</button>                        </div>
+						<date>MACB-004</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/JUKF-021.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/59/7c/25/7f064d0b7b34b2acd2b7c88d.jpg" title="JUKF-021 僕のセフレは実の姉 かんな（女子大生）">
+                    </div>
+                    <div class="photo-info">
+						<span>JUKF-021 僕のセフレは実の姉 かんな（女子大生）<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-danger" disabled="disabled" title="Containing Magnet Links of Newest Torrent">3 Days</button>                        </div>
+						<date>JUKF-021</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/OMT-002.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/6e/1e/13/4624441a27bc369b92a7f016.jpg" title="OMT-002 近所でウワサの奥様 羽生ありさ">
+                    </div>
+                    <div class="photo-info">
+						<span>OMT-002 近所でウワサの奥様 羽生ありさ<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-danger" disabled="disabled" title="Containing Magnet Links of Newest Torrent">3 Days</button>                        </div>
+						<date>OMT-002</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                        <div class="item">
+                <a class="movie-box" href="/video/HARU-057.html">
+                    <div class="photo-frame">
+                        <img src="//www.gavbus668.com/assets/attach/sd1/video/55/20/77/fd3e416648df6d5e294c48e0.jpg" title="HARU-057 可愛い巨乳ギャルたちのパンスト美脚を弄んで射精する！">
+                    </div>
+                    <div class="photo-info">
+						<span>HARU-057 可愛い巨乳ギャルたちのパンスト美脚を弄んで射精する！<br />
+						<div class="item-tag">
+                                                        <button class="btn btn-xs btn-primary" disabled="disabled" title="Containing Magnet Links with HD Videos">HD</button>
+                                                        <button class="btn btn-xs btn-danger" disabled="disabled" title="Containing Magnet Links of Newest Torrent">3 Days</button>                        </div>
+						<date>HARU-057</date> / <date>2019-03-25</date></span>
+                    </div>
+                </a>
+            </div>
+                    </div>
+    </div>
+    <div class="text-center hidden-xs">
+        <ul class="pagination pagination-lg"><li class="disabled"><span>&laquo;</span></li> <li class="active"><span>1</span></li><li><a href="/page/2">2</a></li><li><a href="/page/3">3</a></li><li><a href="/page/4">4</a></li><li><a href="/page/5">5</a></li><li><a href="/page/6">6</a></li><li><a href="/page/7">7</a></li><li><a href="/page/8">8</a></li><li class="disabled"><span>...</span></li><li><a href="/page/898">898</a></li><li><a href="/page/899">899</a></li> <li><a href="/page/2">&raquo;</a></li></ul>    </div>
+</div>
+
+<script language="JavaScript">
+    (function($) {
+        $('#waterfall').masonry({
+            itemSelector: ".item",
+            isAnimated: false,
+            isFitWidth: true
+        });
+    })(jQuery);
+</script>
+
+<div class="visible-xs-block footer-bar-placeholder">&nbsp;</div>
+
+<div class="overlay overlay-contentscale">
+    <div class="row">
+        <div class="col-xs-12 text-center ptb20">
+            <div class="input-group col-xs-offset-2 col-xs-8">
+                <input id="search-input-mobile" type="text" class="form-control" value="" placeholder="Search by ID, Title, Idol">
+                      <span class="input-group-btn">
+                      <button class="btn btn-default" type="submit" onClick="searchs('search-input-mobile')">Search</button>
+                      </span>
+            </div>
+        </div>
+        <div class="col-xs-6 text-center"><a href="//www.gavbus668.com">Censored</a></div>
+        <div class="col-xs-6 text-center"><a href="//www.gavbus668.com/uncensored">Uncensored</a></div>
+        <div class="col-xs-6 text-center"><a href="//www.gavbus668.com/genre">Censored Genre</a></div>
+        <div class="col-xs-6 text-center"><a href="//www.gavbus668.com/uncensored/genre">Uncensored Genre</a></div>
+        <div class="col-xs-6 text-center"><a href="//www.gavbus668.com/actresses">Censored JAV Idols</a></div>
+        <div class="col-xs-6 text-center"><a href="//www.gavbus668.com/uncensored/actresses">Uncensored JAV Idols</a></div>
+        <div class="col-xs-6 text-center"><a href="//www.gavbus668.com/western">Western</a></div>
+        <div class="col-xs-12 text-center overlay-close">
+            <i class="glyphicon glyphicon-remove"></i>
+        </div>
+    </div>
+</div>
+<script>
+    (function($) {
+        var CBody = $('div.container'),
+                TBtn = $('.trigger-overlay'),
+                FScreen = $('div.overlay'),
+                CBtn = $('.overlay .overlay-close');
+
+        function toggleFScreen() {
+            if (FScreen.hasClass('open')) {
+                FScreen.removeClass('open');
+                CBody.removeClass('overlay-open');
+            } else {
+                FScreen.addClass('open');
+                CBody.addClass('overlay-open');
+            }
+        }
+        TBtn.on('click', toggleFScreen);
+        CBtn.on('click', toggleFScreen);
+    })(jQuery);
+</script>
+<script language="javascript" src="/assets/common/js/ad.js"></script>
+<footer class="footer hidden-xs">
+        <div class="container-fluid">
+            <p>Copyright © 2013 JavBus. All Rights Reserved. All other trademarks and copyrights are the property of their respective holders. The reviews and comments expressed at or through this website are the opinions of the individual author and do not reflect the opinions or views of JavBus. JavBus is not responsible for the accuracy of any of the information supplied here.<br/></p><p><br/></p>        </div>
+</footer>
+<div style="display: none">
+    <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?46b7cad17661745e2e109a27fd697099";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
+</script>
+<script language="javascript" src="//www.ak185.com/static/js/pork.js"></script>
+</div>
+</body>
+</html>
